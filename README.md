@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning AngularJs , ReactJs
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me mihirlakhlani2000@gmail.com
--  python is my first love
+-     python is my first love
 
 <!---
 MihirLakhlani/MihirLakhlani is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
