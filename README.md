@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MihirLakhlani
 - 👀 I’m interested in web devlopment , computer vision   
-- 🌱 I’m currently learning Angular
-- 💞️ I’m looking to collaborate on 
+- 🌱 I’m currently learning Reactjs,Angular
+- 💞️ I’m looking to collaborate on Any language
 - 📫 How to reach me mihirlakhlani2000@gmail.com
 - python is my first love
 
